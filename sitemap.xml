@@ -3,39 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://allen-zqh.github.io/blog/</loc>
+    <loc>https://hualoveshao.github.io/blog/</loc>
   </url>
   
   <url>
-    <loc>https://allen-zqh.github.io/categories/</loc>
+    <loc>https://hualoveshao.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://allen-zqh.github.io/tags/development/</loc>
+    <loc>https://hualoveshao.github.io/categories/development/</loc>
   </url>
   
   <url>
-    <loc>https://allen-zqh.github.io/categories/development/</loc>
+    <loc>https://hualoveshao.github.io/tags/development/</loc>
   </url>
   
   <url>
-    <loc>https://allen-zqh.github.io/categories/golang/</loc>
+    <loc>https://hualoveshao.github.io/categories/golang/</loc>
   </url>
   
   <url>
-    <loc>https://allen-zqh.github.io/tags/golang/</loc>
+    <loc>https://hualoveshao.github.io/tags/golang/</loc>
   </url>
   
   <url>
-    <loc>https://allen-zqh.github.io/</loc>
+    <loc>https://hualoveshao.github.io/blog/huageniubi/</loc>
   </url>
   
   <url>
-    <loc>https://allen-zqh.github.io/blog/first/</loc>
+    <loc>https://hualoveshao.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://allen-zqh.github.io/tags/</loc>
+    <loc>https://hualoveshao.github.io/blog/first/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hualoveshao.github.io/tags/</loc>
   </url>
   
 </urlset>
